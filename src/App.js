@@ -1,10 +1,11 @@
 import "./App.css";
-import Sample from "./components/sample";
+import Brands from "./components/sample/Brand_Listing";
 
 function App() {
   return (
     <div className="App">
-      <Sample />
+      
+      <Brands />
     </div>
   );
 }
