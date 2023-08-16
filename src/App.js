@@ -1,7 +1,10 @@
+import Banner from "./homepageBanner";
+import Product from "./products";
 function App() {
   return (
     <div>
-      <p className=""> hello</p>
+      <Banner></Banner>
+      <Product></Product>
     </div>
   );
 }
