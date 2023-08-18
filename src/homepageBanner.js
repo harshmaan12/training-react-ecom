@@ -2,7 +2,7 @@ import React from "react";
 
 const Banner = () => {
   return (
-    <div className="flex bg-gray-200 h-screen gap-6 p-4">
+    <div className="flex bg-gray-200 h-96 gap-6 p-4">
       <div className="w-1/2">
         <img
           src="https://images.unsplash.com/photo-1618517351616-38fb9c5210c6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHQlMjBzaGlydHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
@@ -20,7 +20,7 @@ const Banner = () => {
           />
         </div>
 
-        <div className=" h-60 flex divide-x gap-6">
+        <div className=" h-40 flex divide-x gap-7">
           <div className="w-1/2">
             <img
               src="https://images.unsplash.com/photo-1618517351616-38fb9c5210c6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHQlMjBzaGlydHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
