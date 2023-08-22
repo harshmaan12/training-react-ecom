@@ -11,7 +11,7 @@ const Brands = () => {
         'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQoKBYqUGBfW5PeMZ-Y-dL3_kim1XRLESdyg&usqp=CAU',
         'https://bcassetcdn.com/public/blog/wp-content/uploads/2021/10/21170639/BODE.png',
         'https://1.bp.blogspot.com/-U-Vl_Et67SE/T7JUkBXMQrI/AAAAAAAACnA/--yGCi8frRQ/s1600/logo-radley-large.jpeg',
-        'https://mbluxury1.s3.amazonaws.com/2022/02/25172934/DG-Dolce-Gabbana.jpg',
+        // 'https://mbluxury1.s3.amazonaws.com/2022/02/25172934/DG-Dolce-Gabbana.jpg',
       ];
     
     return(
