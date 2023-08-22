@@ -1,10 +1,13 @@
-import Banner from "./homepageBanner";
-import Product from "./products";
+
+import CurratedBlock from "./components/sample/CurratedBlocks";
+import HomePageBanner from "./components/sample/HomePage";
+
 function App() {
   return (
-    <div>
-      <Banner></Banner>
-      <Product></Product>
+    <div className="p-10">
+
+      <HomePageBanner></HomePageBanner>
+      <CurratedBlock/>
     </div>
   );
 }
