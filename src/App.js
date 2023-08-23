@@ -8,9 +8,9 @@ function App() {
     <div className=" overflow-x-hidden lg:p-6">
 
       <HomePageBanner></HomePageBanner>
-      <Brands />
-      <CurratedBlock/>
      
+      <CurratedBlock/>
+      <Brands />
       <Footer/>
     </div>
   );
