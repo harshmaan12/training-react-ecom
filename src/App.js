@@ -5,7 +5,7 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <div className=" overflow-x-hidden lg:p-6">
+    <div className=" overflow-x-hidden  lg:p-6 ">
 
       <HomePageBanner></HomePageBanner>
      
